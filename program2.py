@@ -18,7 +18,6 @@ def decode_message( s: str, p: str) -> bool:
 
     return dp[m][n]
 
-# Test cases
 print(decode_message("aa", "a"))   
 print(decode_message("aa", "*"))   
 print(decode_message("cb", "?a"))  
