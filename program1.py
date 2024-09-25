@@ -39,7 +39,7 @@ grid1 = [
     ["L","L","W","W", "W"],
     ["W","W","W","W", "W"]
 ]
-print(sol.getTotalIsles(grid1))  # Output: 1
+print(sol.getTotalIsles(grid1)) 
 
 grid2 = [
     ["L","L","W","W", "W"],
