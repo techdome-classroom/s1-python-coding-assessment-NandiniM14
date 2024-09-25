@@ -20,6 +20,6 @@ def decode_message( s: str, p: str) -> bool:
 
 # Test cases
 print(decode_message("aa", "a"))   # False
-print(decode_message("aa", "*"))   # True
-print(decode_message("cb", "?a"))  # False
-print(decode_message("cb", "?b"))  # True
+print(decode_message("aa", "*"))   
+print(decode_message("cb", "?a"))  
+print(decode_message("cb", "?b"))  
