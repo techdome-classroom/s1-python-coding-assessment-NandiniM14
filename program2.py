@@ -23,5 +23,3 @@ print(decode_message("aa", "a"))   # False
 print(decode_message("aa", "*"))   # True
 print(decode_message("cb", "?a"))  # False
 print(decode_message("cb", "?b"))  # True
-  
-    
