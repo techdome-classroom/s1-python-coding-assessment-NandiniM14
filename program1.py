@@ -49,4 +49,3 @@ grid2 = [
 ]
 print(sol.getTotalIsles(grid2))  
                     
-        return 0
